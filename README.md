@@ -109,5 +109,4 @@ Displays products with the **highest customer engagement** through reviews.
 
 ---
 
-## 📎 File Structure
 
